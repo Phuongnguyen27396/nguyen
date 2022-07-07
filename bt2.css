@@ -1,0 +1,26 @@
+#container {
+    width:600px;
+    height:100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto 15px;
+    border:0px;
+    color: rgba(84, 7, 84, 0.932);
+    background-color:rgb(209, 198, 209);
+
+   
+}
+#container1 
+{
+    width:600px;
+    height:70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto 15px;
+    border: 0px;
+    color: white;
+    background-color:rgb(84, 7, 84, 0.932);
+    justify-content: space-between;
+}
